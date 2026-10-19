@@ -11,12 +11,12 @@ Basiert auf `bin/user/historygenerator.py` aus dem Skin [fuzzy-archer](https://g
 
 ## Installation
 
-```bash
-# WeeWX 5
+WeeWX 5
+```
 weectl extension install https://github.com/smeisens/weewx-historygenerator/archive/master.zip
 ``` 
+oder direkt aus dem Ordner
 ``` 
-# oder direkt aus dem Ordner
 weectl extension install /pfad/zu/weewx-historygenerator
 ```
 
